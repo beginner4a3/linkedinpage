@@ -1,0 +1,24 @@
+.logo1{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 80%;
+}
+.sec1{
+    margin-top: 2px;
+    margin-left: 40%;
+    margin-right: 40%;
+    width: 20%;
+    padding: 40px;
+    box-shadow: 1px 1px 5px 1px #888888 ;
+    justify-content: center;
+    border-radius: 20px;
+}
+.sec23{
+    margin-top: 2px;
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 20%;
+    padding: 40px;
+    background-color: aliceblue;
+    justify-content: center;
+}
